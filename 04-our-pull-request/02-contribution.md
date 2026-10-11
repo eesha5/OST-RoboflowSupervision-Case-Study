@@ -84,6 +84,7 @@ The PR description follows Supervision's own PR template (Description, Motivatio
 
 ![PR opened](pr-opened.png)
 ![PR description](pr-description.png)
+![PR description continued](pr-description-2.png)
 
 ### PR checks after opening
 
@@ -101,9 +102,10 @@ The PR description follows Supervision's own PR template (Description, Motivatio
 
 1. **Pre-commit needed Python 3.11.** Supervision's pre-commit hooks are pinned to Python 3.11, but our environment used 3.10. We installed 3.11 alongside it with `uv python install 3.11` to run the checks.
 2. **The CLA is linked by commit email.** Our first push used an email not verified on the GitHub account, so the CLA bot could not identify the author. We amended the commit to use the verified email and force-pushed with `--force-with-lease` (which refuses to overwrite the branch if it has changed unexpectedly).
-3. **Shallow clones lack remote branch info.** Because we cloned with `--depth 1 -b develop`, Git had no record of the PR branch's remote state, so `--force-with-lease` initially refused with "stale info". We fetched the branch and gave the expected commit explicitly.
-4. **First-time contributors' CI needs approval.** GitHub does not run a project's workflows on a new contributor's PR until a maintainer approves them, which protects the project from untrusted code.
-5. **Code owners.** Supervision's `CODEOWNERS` file automatically requested a review from SkalskiP, and merging is blocked until that review happens.
+![Force push](force-push.png)
+4. **Shallow clones lack remote branch info.** Because we cloned with `--depth 1 -b develop`, Git had no record of the PR branch's remote state, so `--force-with-lease` initially refused with "stale info". We fetched the branch and gave the expected commit explicitly.
+5. **First-time contributors' CI needs approval.** GitHub does not run a project's workflows on a new contributor's PR until a maintainer approves them, which protects the project from untrusted code.
+6. **Code owners.** Supervision's `CODEOWNERS` file automatically requested a review from SkalskiP, and merging is blocked until that review happens.
 
 ## 2.8 Use of AI assistance
 
