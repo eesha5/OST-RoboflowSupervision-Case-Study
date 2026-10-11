@@ -1,8 +1,0 @@
-Operating system: Windows-11-10.0.26300-SP0
-Python: 3.12.7
-Supervision: 0.30.9
-OpenCV: 5.0.0
-NumPy: 2.5.4
-Original detections: 2
-Detections after filtering: 1
-Images saved in: C:\Users\PC\OST-Member1-Demo\output
