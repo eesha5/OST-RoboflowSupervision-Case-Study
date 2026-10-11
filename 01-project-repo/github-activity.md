@@ -57,3 +57,28 @@ See evidence/S20-github-activity.png.
 ## Reference
 
 https://github.com/roboflow/supervision/graphs/contributors
+
+## Issue and Pull-Request Activity
+
+Observed on 11 October 2026 in the official Roboflow Supervision repository:
+
+| Item | Open | Closed |
+|---|---:|---:|
+| Issues | 41 | 528 |
+| Pull requests | 37 | 1,810 |
+
+The issue list included reports about CSV export, mask resizing,
+dataset export, and annotation behaviour.
+
+These counts show a history of issue handling and proposed changes,
+alongside items that remain open. They are a snapshot and can change.
+
+A closed issue does not necessarily mean a bug was fixed.
+Closed pull requests include both merged changes and proposals
+closed without merging. These totals alone cannot establish
+response speed or a merge rate.
+
+### Sources
+
+- https://github.com/roboflow/supervision/issues
+- https://github.com/roboflow/supervision/pulls
