@@ -9,8 +9,9 @@
    6. Pull request & CLA
    7. CI results & review rounds
    8. Before/after demo
-
-   ## Links
-   - Upstream issue: _to be added_
-   - Our pull request: _to be added_
-   - Fork: _to be added_
+      
+## Links
+- Our pull request: https://github.com/roboflow/supervision/pull/2719
+- Fork: https://github.com/eesha5/supervision
+- Branch: docs/fix-docstring-example-imports
+- Notes: [Setup](01-setup.md) · [Contribution](02-contribution.md)
