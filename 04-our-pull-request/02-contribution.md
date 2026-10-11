@@ -28,7 +28,7 @@ We wrote a small script (`check_examples.py`) that parses each example and lists
 | `ConfusionMatrix.benchmark` | uses `np.ndarray` without `import numpy as np` |
 | `IconAnnotator.annotate` | uses `np.random.choice` without `import numpy as np` |
 
-![Before: 4 of 4 broken](before-check.png)
+![Before: 4 of 4 broken](before_check.png)
 
 ## 2.3 Checking for duplicate work
 
