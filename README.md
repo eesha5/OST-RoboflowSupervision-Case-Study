@@ -1,14 +1,22 @@
-**Course:** Open Source Technologies (TE7756), Symbiosis Institute of Technology, Pune
-**Project studied:** [roboflow/supervision](https://github.com/roboflow/supervision), an open-source Python toolkit for computer vision (MIT license)
+# CA-3: Case Study of Roboflow Supervision
+
+Hands-on open-source case study of [Roboflow Supervision](https://github.com/roboflow/supervision): exploring the codebase, reproducing a real bug, and contributing a fix through a pull request.
+
+## Course Details
+
+- **Course:** Open Source Technologies (TE7756)
+- **Institute:** Symbiosis Institute of Technology, Pune
+- **Project studied:** [roboflow/supervision](https://github.com/roboflow/supervision), an open-source Python toolkit for computer vision
+- **License:** MIT
 
 ## Group Members
 
-| Member | Name | Roll No. | Role |
+| Name | Roll No. | Member | Role |
 |---|---|---|---|
-| 1 | Mahek Mishra | 24070127066 | Project & Repository |
-| 2 | Heer Chelwani | 24070127051 | Issue & Bug Investigation |
-| 3 | Prashobh Prasad | 24070127090 | Contribution Process & PR Investigation |
-| 4 | Eesha Masand | 24070127043 | Fix & Pull Request |
+| **Eesha Masand** | 24070127043 | 4 | Our Contribution (Fix & Pull Request) |
+| Mahek Mishra | 24070127066 | 1 | Project & Repository |
+| Heer Chelwani | 24070127051 | 2 | Issue & Bug Investigation |
+| Prashobh Prasad | 24070127090 | 3 | Contribution Process & PR Investigation |
 
 ## Our Upstream Contribution
 
@@ -17,9 +25,9 @@
 - Found 4 docstring examples in Supervision that fail with `NameError` when copied
 - Fixed all 4 (4 files changed, 4 insertions, 1 deletion)
 - Pre-commit checks passed; full test suite: 5,393 passed, 0 failed
-- Status: open, CLA signed, awaiting code-owner review
+- **Status:** open, CLA signed, awaiting code-owner review
 
-## Contents
+## Repository Contents
 
 | Folder | Member | What's inside |
 |---|---|---|
