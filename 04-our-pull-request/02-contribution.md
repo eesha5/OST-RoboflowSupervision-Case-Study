@@ -84,7 +84,7 @@ The PR description follows Supervision's own PR template (Description, Motivatio
 
 ![PR opened](pr-opened.png)
 ![PR description](pr-description.png)
-![PR description continued](pr-description-2.png)
+![PR description continued](pr-description2.png)
 
 ### PR checks after opening
 
