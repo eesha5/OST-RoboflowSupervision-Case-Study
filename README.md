@@ -11,12 +11,12 @@ Hands-on open-source case study of [Roboflow Supervision](https://github.com/rob
 
 ## Group Members
 
-| Name | Roll No. | Member | Role |
+| Member | Name | Roll No. | Role |
 |---|---|---|---|
-| **Eesha Masand** | 24070127043 | 4 | Our Contribution (Fix & Pull Request) |
-| Mahek Mishra | 24070127066 | 1 | Project & Repository |
-| Heer Chelwani | 24070127051 | 2 | Issue & Bug Investigation |
-| Prashobh Prasad | 24070127090 | 3 | Contribution Process & PR Investigation |
+| 1 | Mahek Mishra | 24070127066 | Project & Repository |
+| 2 | Heer Chelwani | 24070127051 | Issue & Bug Investigation |
+| 3 | Prashobh Prasad | 24070127090 | Contribution Process & PR Investigation |
+| 4 | Eesha Masand | 24070127043 | Fix & Pull Request |
 
 ## Our Upstream Contribution
 
