@@ -70,14 +70,13 @@ Deliberately left out of scope: the unused `import tensorflow as tf` in the `fro
 
 ![After: 0 of 4 broken](after-check.png)
 ![Pre-commit](precommit.png)
-![Pytest after](pytest-after.png)
+![Pytest after](passed.png)
 
 ## 2.6 Commit and pull request
 
 Commit message follows Supervision's conventional-commit rule:
 `docs: fix missing and incorrect imports in docstring examples`
 
-![Git status](git-status.png)
 ![Commit](commit.png)
 ![Push](push.png)
 
