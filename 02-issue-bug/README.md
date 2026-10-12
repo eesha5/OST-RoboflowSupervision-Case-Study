@@ -1,4 +1,3 @@
-# Issue and bug investigation
 # Member 2: Issue and Bug Investigation
 
 Name: Heer Chelwani
