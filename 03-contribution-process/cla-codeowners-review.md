@@ -57,7 +57,7 @@ Our group's PR #2719 provides a live example of the same process. At the time of
 
 This shows that completing the CLA and passing individual checks are separate from satisfying every review and merge requirement.
 
-Source: https://github.com/eesha5/OST-RoboflowSupervision-Case-Study/pull/2719
+Source: https://github.com/roboflow/supervision/pull/2719
 
 ## 6. Conclusion
 

@@ -29,3 +29,18 @@ This section investigates how the Roboflow Supervision project documents contrib
 - [Pull request #2719](https://github.com/roboflow/supervision/pull/2719)
 
 The findings are based on the repository files and pull request information inspected during this case study. Pull request statuses can change over time.
+
+## Screenshots
+
+- [CONTRIBUTING.md](screenshots/contributing-md.png)
+- [Code of Conduct](screenshots/code-of-conduct.png)
+- [PR template](screenshots/pr-template.png)
+- [CODEOWNERS](screenshots/codeowners.png)
+- [Pre-commit config](screenshots/precommit-config.png)
+- [Review guidelines](screenshots/review-guidelines.png)
+- [PR #2623 overview](screenshots/pr2623-overview.png)
+- [PR #2623 files changed](screenshots/pr2623-files-changed.png)
+- [PR #2623 checks](screenshots/pr2623-checks.png)
+- [PR #2623 reviews](screenshots/pr2623-reviews.png)
+- [PR #2623 CLA](screenshots/pr2623-cla.png)
+- [PR #2719 checks](screenshots/pr2719-checks.png)

@@ -20,8 +20,6 @@ The repository contains a Code of Conduct that establishes expectations for resp
 
 **Evidence:** [CODE_OF_CONDUCT.md](https://github.com/roboflow/supervision/blob/develop/.github/CODE_OF_CONDUCT.md)
 
-*Note: Check the actual document for its specific rules and reporting procedure before presenting further details.*
-
 ## 3. Issue Templates
 
 The repository provides issue templates under `.github/ISSUE_TEMPLATE`. These templates help contributors structure bug reports and feature requests so maintainers can understand the problem or proposed change.

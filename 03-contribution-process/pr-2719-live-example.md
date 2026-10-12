@@ -31,6 +31,8 @@ At the time of the screenshot, the Checks section showed:
 
 These observations describe the captured screenshot, not necessarily the pull request's current status.
 
+![PR #2719 checks](screenshots/pr2719-checks.png)
+
 ## 4. What This Demonstrates
 
 This example shows that a pull request may have some successful checks while other checks or approvals remain incomplete.

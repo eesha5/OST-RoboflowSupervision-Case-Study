@@ -13,6 +13,8 @@
 | Final status | Merged |
 | Related issue | [#2578](https://github.com/roboflow/supervision/issues/2578) |
 
+![PR #2623 overview](screenshots/pr2623-overview.png)
+
 ## 2. Problem and Motivation
 
 The change addresses how `LineZone` handles unconfirmed tracks with a negative `tracker_id`. The goal is to prevent unconfirmed tracks from being treated as valid tracked objects.
@@ -29,11 +31,15 @@ The pull request changes were reported in these areas:
 
 The implementation change and its tests are important together: the code addresses the reported behavior, while regression tests help ensure it continues to behave correctly.
 
+![PR #2623 files changed](screenshots/pr2623-files-changed.png)
+
 ## 4. Testing and Continuous Integration
 
 The pull request's Checks tab displayed multiple automated checks. The investigation screenshot showed 34 checks in the Checks tab, while the merge timeline reported 36 checks passed. These are the counts displayed in the respective views.
 
 Automated checks help detect failures before a pull request is merged. The project also uses workflows for testing, documentation, link checking, and repository configuration.
+
+![PR #2623 checks](screenshots/pr2623-checks.png)
 
 ## 5. Review and Approval
 
@@ -43,11 +49,15 @@ The pull request was subsequently merged into `develop`.
 
 This illustrates how automated feedback, human review, and repository ownership can contribute to the review process.
 
+![PR #2623 reviews](screenshots/pr2623-reviews.png)
+
 ## 6. Contributor Licence Agreement
 
 The pull request displayed a CLA Assistant message confirming that all committers had signed the Contributor License Agreement.
 
 A CLA check helps a project verify that contributors have completed the required contribution agreement process.
+
+![PR #2623 CLA](screenshots/pr2623-cla.png)
 
 ## 7. Related Issue and Competing Work
 
@@ -68,4 +78,3 @@ Related issues and pull requests help reviewers understand the original report, 
 
 This analysis is based on the pull request overview, Checks tab, review timeline, and CLA screenshot captured during the investigation. Check counts can differ between views, and pull request status or displayed checks may change over time.
 
-Screenshots should be stored in the repository's `screenshots/` folder and linked here once uploaded.
